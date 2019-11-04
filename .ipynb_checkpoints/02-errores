@@ -1,0 +1,46 @@
+
+# adsasd asdads
+#errores
+
+try:
+    0/0
+except Exception as error:
+    print("Error")
+print ("No se cae  :D")
+
+# errores de escritura
+try:
+    a+b
+    0/0
+except NameError as nameError:
+    print("Name error")
+except ZeroDivisionError as zeroError:
+    print ("Zero error")
+except Exception as error:
+    print("Error")
+
+
+# errores de escritura
+try:
+   # a+b
+    0/0
+except NameError as nameError:
+    print("Name error")
+except ZeroDivisionError as zeroError:
+    print ("Zero error")
+except Exception as error:
+    print("Error")
+
+
+# errores de escritura
+try:
+   # a+b
+    #0/0
+    a={'b':'b'}
+    a=['c']
+except NameError as nameError:
+    print("Name error")
+except (ZeroDivisionError, keyError) as errorComun:
+    print ("Error agrupado comun")
+except Exception as error:
+    print("Error")
