@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="257e54f8-6d2f-464b-ac00-70bdf20b97d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Variables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01-Variables.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02-errores" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.02-errores (1)">
+    <configuration name="02-errores (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py-carrera-alvarez-alex-francisco" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Python_Errores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Python_Errores/02-errores" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="02-errores" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py-carrera-alvarez-alex-francisco" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02-errores (1)" />
         <item itemvalue="Python.02-errores" />
       </list>
     </recent_temporary>
@@ -72,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573931501834</updated>
       <workItem from="1573931503372" duration="747000" />
+      <workItem from="1573933523434" duration="1317000" />
     </task>
     <servers />
   </component>
@@ -83,13 +107,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_carrera_alvarez_alex_francisco$02_errores__1_.coverage" NAME="02-errores (1) Coverage Results" MODIFIED="1573953405179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python_Errores" />
     <SUITE FILE_PATH="coverage/py_carrera_alvarez_alex_francisco$02_errores.coverage" NAME="02-errores Coverage Results" MODIFIED="1573932801455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.ipynb_checkpoints" />
   </component>
 </project>
