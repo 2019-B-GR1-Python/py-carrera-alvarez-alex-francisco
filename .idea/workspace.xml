@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="257e54f8-6d2f-464b-ac00-70bdf20b97d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02-errores" beforeDir="false" />
-    </list>
+    <list default="true" id="257e54f8-6d2f-464b-ac00-70bdf20b97d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMAS\GENERAL\GitHubDesktop\py-carrera-alvarez-alex-francisco\02_Python_Errores" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573931501834</updated>
       <workItem from="1573931503372" duration="747000" />
-      <workItem from="1573933523434" duration="1317000" />
+      <workItem from="1573933523434" duration="1568000" />
     </task>
     <servers />
   </component>
