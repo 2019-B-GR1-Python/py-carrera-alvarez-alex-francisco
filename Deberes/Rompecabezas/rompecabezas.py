@@ -62,6 +62,7 @@ def draw_image(lista_rompecabezas):
     for ax in fig.get_axes():
         ax.label_outer()
     plt.show
+    
         
 def mix():
     global rompecabezas
